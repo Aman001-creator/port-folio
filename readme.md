@@ -85,7 +85,7 @@ other resources......
 
 ## License
 
-This portfolio is licensed under the (LICENSE).
+This portfolio is licensed under the [MIT](LICENSE).
 
 --------------------------------------------------------
 
