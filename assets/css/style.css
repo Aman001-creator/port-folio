@@ -397,8 +397,20 @@ section{
       flex-direction: column-reverse;
    }
 
-   .home-content h3{
+   .home-content h3:first-of-type {
       font-size: 2.6rem;
+      font-weight: 700;
+      color: #c3d4e0;
+      margin-top: 10rem;
+   }
+   
+   
+   .home-content h3:nth-of-type(2){
+      margin-bottom: 2rem;
+   }
+   
+   .home-content h3:nth-of-type(2) span{
+      color: #9862ff;
    }
 
    .home-content h1{
