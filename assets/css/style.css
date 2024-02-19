@@ -406,7 +406,7 @@ section{
    }
 
    .home-img img{
-      margin: 50px;
+      /*margin: 50px;*/
       width: 70vw;
    }
 
@@ -438,7 +438,7 @@ section{
    }
    
    html{
-      font-size: 65%;
+      font-size: 60%;
    }
    
    .home-img img{
@@ -447,4 +447,8 @@ section{
    .about-img img{
       width: 90vw;
    }
+}
+.copy{
+   border-top: 2px solid white;
+   padding-top: 1rem;
 }
