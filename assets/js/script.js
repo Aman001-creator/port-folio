@@ -89,7 +89,8 @@ ScrollReveal({
 ScrollReveal().reveal('.home-content, .heading', { origin:'top' });
 ScrollReveal().reveal('.heading1', { origin:'bottom' });
 ScrollReveal().reveal('.home-img, .project-box, .form-group', { origin:'bottom' });
-ScrollReveal().reveal('.home-content h1, .about-img', { origin:'right' });
+ScrollReveal().reveal('.about-img', { origin:'bottom' });
+ScrollReveal().reveal('.home-content h1', { origin:'left' });
 ScrollReveal().reveal('.home-content p, .about-content', { origin:'left' });
 ScrollReveal().reveal('.progress,.skill h3,.skill h6', { origin:'left' });
 
